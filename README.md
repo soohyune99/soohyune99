@@ -52,9 +52,6 @@
 </div>
 
 <div align=center>
-	<a href="https://suehyune12.tistory.com/">
-		<img src="https://img.shields.io/badge/Tistory-FF9800?style=flat&logo=Tistory&logoColor=white" />
-	</a>
 	<a href="https://www.notion.so/d62e293c3f904aa6af272f0b25b85b27">
 		<img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
 	</a>
